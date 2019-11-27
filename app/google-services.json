@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016529652114",
+    "firebase_url": "https://skype-app-5f829.firebaseio.com",
+    "project_id": "skype-app-5f829",
+    "storage_bucket": "skype-app-5f829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016529652114:android:7a29e54a74cd3e3959194b",
+        "android_client_info": {
+          "package_name": "eu.bestwan.skypeapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016529652114-ldldlt2csfrt907s5i8mk2ljdrpqqpu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBccYrIdtWzobSpkGfyYYmbtJGH8VH4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016529652114-ldldlt2csfrt907s5i8mk2ljdrpqqpu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
